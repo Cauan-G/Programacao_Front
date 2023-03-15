@@ -17,7 +17,7 @@ h2{
 }
 
 figure{
-    background-color: #f2eded;
+    background-color: #ddd6d6;
     border: 1px solid #ccc;
     text-align: center;
     padding: 15px;
@@ -32,4 +32,8 @@ figcaption{
 p{
     padding: 0 45px;
     text-indent: 15px;
+}
+
+.logo{
+    width: 15%;
 }
