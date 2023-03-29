@@ -6,6 +6,15 @@
     text-align: right;
     width: 140px;
     padding-top: 8px;
+    position: relative;
+    left: 100%;
+    top: -90px;
+}
+
+.menu-opcoes{
+    position: relative;
+    left: 50%;
+    bottom: 100px;
 }
 
 .menu-opcoes li{
