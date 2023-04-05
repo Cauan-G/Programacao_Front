@@ -6,15 +6,19 @@
     text-align: right;
     width: 140px;
     padding-top: 8px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+header{
     position: relative;
-    left: 100%;
-    top: -90px;
 }
 
 .menu-opcoes{
-    position: relative;
-    left: 50%;
-    bottom: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
 }
 
 .menu-opcoes li{
