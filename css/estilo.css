@@ -145,7 +145,6 @@ footer .container{
     position: absolute;
     top: 12px;
     right: 0;
-    display: flex;
 }
 
 .social a{
@@ -153,8 +152,11 @@ footer .container{
     width: 32px;
     display: block;
     text-indent: -9999px;
+}
+
+.social li{
     margin-left: 25px;
-    display: inline;
+    float: left;
 }
 
 .social a[href*="facebook.com"]{
