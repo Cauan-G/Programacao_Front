@@ -146,13 +146,13 @@ body{
 	padding-bottom: 10px;
 }
 
-.novidades {
+/* .novidades {
 	background-color: #f5dcdc;
 }
 
 .mais-vendidos {
 	background-color: #dcdcf5;
-}
+} */
 
 footer{
     background-image: url(../img/fundo-rodape.png);
@@ -192,5 +192,21 @@ footer .container{
 
 .social a[href*="plus.google.com"]{
     background-image: url(../img/googleplus.png);
+}
+
+.painel {
+    border-radius: 4px;
+    box-shadow: inset 1px 1px 4px #999;
+}
+.painel h2{
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+}
+
+.novidades {
+    background: linear-gradient(#f5dcdc, #bebef4);
+}
+
+.mais-vendidos {
+    background: linear-gradient(#dcdcf5, #f4bebe);
 }
 
