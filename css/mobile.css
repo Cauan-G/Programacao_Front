@@ -11,6 +11,9 @@
 		-moz-column-count: 2;
 		column-count: 2;
 	}
+    .pause, .play {
+	    display: none;
+    }
 }
 
 @media (min-width: 720px) {
